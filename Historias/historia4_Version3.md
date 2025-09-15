@@ -16,11 +16,3 @@ Registrar y dar seguimiento a los pedidos de fabricación de cilindros industria
 4. Cada pedido debe tener un identificador único y mostrar la fecha de creación
 5. Todos los pedidos deben aparecer en una pantalla de seguimiento accesible para todos los usuarios del sistema
 6. La pantalla de seguimiento debe mostrar información relevante de cada pedido: empresa, modelo, herramentales asignados y estado actual
-
-## Preguntas adicionales
-- ¿Se necesita establecer una fecha de entrega estimada para cada pedido?
-- ¿Es necesario registrar información adicional sobre la empresa o el contacto que realiza el pedido?
-- ¿Se debe permitir adjuntar archivos o especificaciones técnicas adicionales al pedido?
-- ¿El sistema debe gestionar prioridades entre diferentes pedidos?
-- ¿Se requiere enviar notificaciones cuando se crea un nuevo pedido?
-```

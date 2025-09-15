@@ -17,11 +17,5 @@ Mantener informado al equipo sobre el estado actual del proceso de fabricación 
 5. El técnico debe poder seleccionar un herramental de reemplazo de la lista de compatibles
 6. La pantalla de seguimiento debe actualizarse en tiempo real para todos los usuarios sin necesidad de refrescar la página (sin F5)
 7. Debe existir un registro histórico de los cambios de estatus para cada herramental en un pedido
-
-## Preguntas adicionales
-- ¿Se requiere registrar quién realizó cada cambio de estatus y cuándo?
-- ¿Es necesario agregar comentarios al cambiar el estatus de un herramental?
-- ¿Deben existir restricciones para cambiar de ciertos estatus a otros (por ejemplo, no se puede pasar directamente de "disponible" a "fin de uso")?
-- ¿Se necesitan notificaciones cuando ocurren ciertos cambios de estatus?
-- ¿Cuál es el flujo de trabajo esperado entre los diferentes estatus?
-```
+8. Se debe de registrar quien hacer el cambio de estatus
+9. Agregar comentarios por el cambio de estatus

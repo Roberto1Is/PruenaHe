@@ -16,10 +16,9 @@ Mantener actualizado el inventario de herramentales disponibles para la fabricac
 4. Se debe poder modificar la información de un herramental existente
 5. Se debe poder eliminar un herramental cuando ya no esté en uso
 6. El sistema debe validar que no se eliminen herramentales que estén asociados a productos o pedidos activos
-
-## Preguntas adicionales
-- ¿Cuáles son exactamente los campos de medidas que deben registrarse para cada tipo de herramental?
-- ¿Existe alguna nomenclatura específica para los modelos de herramentales?
-- ¿Se debe llevar un historial de los cambios realizados en los herramentales?
-- ¿Hay alguna validación especial para asegurar la compatibilidad entre herramentales?
-```
+7. No existe nomenclatura para el nombre del herramental pero no debe de existir otro con el mismo nombre
+8. En lo herramnetales Upper todas las medidas son en centimetros a dos decimales, la medidas son P,D,Z
+9. En lo herramnetales medium todas las medidas son en centimetros a dos decimales, la medidas son P,D,Z y C
+10. En lo herramnetales lower todas las medidas son en centimetros a dos decimales, la medidas son P,D,Z
+11. En lo herramnetales ring todas las medidas son en centimetros a dos decimales, la medidas son P,D,C
+12. En lo herramnetales extensor todas las medidas son en centimetros a dos decimales, la medidas son P,D,C

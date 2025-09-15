@@ -16,10 +16,4 @@ Diseñar nuevos modelos de cilindros industriales asegurando que los componentes
 4. A medida que se seleccionen más herramentales, el sistema debe ir filtrando las opciones disponibles para mostrar solo aquellas que sean compatibles con todas las selecciones previas
 5. El sistema debe permitir guardar la configuración final del producto con un nombre o identificador único
 6. El analista debe poder visualizar cómo quedaría el producto final (medidas resultantes)
-
-## Preguntas adicionales
-- ¿Cuáles son los criterios específicos de compatibilidad entre los distintos tipos de herramentales?
-- ¿Se requiere ingresar información adicional del producto además de los herramentales que lo componen?
-- ¿El sistema debe calcular automáticamente las dimensiones finales del cilindro basado en los herramentales seleccionados?
-- ¿Es necesario definir diferentes versiones o variantes de un mismo producto?
-```
+7. Los criterios de compatibilidad son que la medida d de todos los herramentales, menor el ring para la compativilidad de ring es necesario que la medida c sea igual a la c de middle
