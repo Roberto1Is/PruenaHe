@@ -16,11 +16,3 @@ Controlar eficientemente el ciclo de mantenimiento de los herramentales y asegur
 4. El técnico debe poder cambiar el estatus de los herramentales que están en mantenimiento a "disponible" cuando finalice el proceso
 5. La pantalla debe mostrar información relevante de cada herramental (tipo, modelo, medidas)
 6. Los cambios de estatus deben actualizarse inmediatamente en la pantalla de seguimiento general
-
-## Preguntas adicionales
-- ¿Se requiere registrar la razón por la cual un herramental entra en mantenimiento?
-- ¿Es necesario registrar qué tipo de mantenimiento se realizó?
-- ¿Se debe registrar el tiempo estimado de mantenimiento y generar alertas si se excede?
-- ¿Debe existir algún tipo de aprobación o verificación antes de cambiar un herramental de "en mantenimiento" a "disponible"?
-- ¿Se necesita un historial de mantenimientos por herramental para análisis de frecuencia y duración?
-```
